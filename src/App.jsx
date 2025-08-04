@@ -22,6 +22,10 @@ function App() {
         main: "#332a60",
         contrastText: "#fff",
       },
+      tertiary: {
+        main: "#eacdfd",
+        contrastText: "#000",
+      },
       yellow: {
         main: "#F7BD00",
         contrastText: "#fff",
